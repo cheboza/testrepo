@@ -1,3 +1,6 @@
 <?php
 
-lalala;
+lala;
+some php code;
+line code 2;
+
