@@ -3,4 +3,5 @@ new line
 new line 2
 
 fix bug in line 3
+fix new bug in line 3.1
 new line 4
