@@ -1,2 +1,4 @@
 123
 new line
+new line 2
+else new line
