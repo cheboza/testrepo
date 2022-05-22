@@ -8,3 +8,5 @@ new line 4
 
 lala
 lala2
+
+stash
