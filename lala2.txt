@@ -1,1 +1,2 @@
 change user1
+fetch user1
