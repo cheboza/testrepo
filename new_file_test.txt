@@ -1,6 +1,5 @@
 <?php
 
-lala;
-some php code;
-
-break;
+function test(int $t){
+return $t * 2;
+}
