@@ -1,5 +1,0 @@
-<?php
-
-function test(int $t){
-return $t * 2;
-}
